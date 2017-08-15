@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/ByteDown/WorkRails2.0#readme",
   "dependencies": {
-    "auth0-js": "^8.9.1",
     "html-webpack-plugin": "^2.30.1",
     "koa": "^2.3.0",
     "path": "^0.12.7",
